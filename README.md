@@ -1,4 +1,4 @@
-###  Hi there 👋
+###  Hi there <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif">
 
 I'm Cesar, a software engineering student in Monterrey, Mexico.
 <br><br>
