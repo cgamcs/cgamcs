@@ -2,7 +2,7 @@
 
 ![cañon](https://github.com/cesargmc/cesargmc/assets/106213582/d8a4b5f5-0eac-45ff-81b0-e995c602eeb9)
 
-I'm a software engineering student, I am 19 years old and live in Monterrey, Mexico 
+I'm a software engineering student, I am 20 years old and live in Monterrey, Mexico 
 <br><br>
 I'm interested in full-stack development, I'm currently in 6th semester.
 <br><br>
