@@ -5,8 +5,6 @@
   <p align="center">
     <img align="center" src="https://github.com/cesargmc/cesargmc/assets/106213582/9f030a55-d119-42c9-bdb8-ce19c7d28d9b" />
   </p>
-
-  <br><br>
   
   <p>Soy estudiante de ingeniería de software, tengo 20 años y vivo en Monterrey, México.</p>
   <p>Estoy interesado en desarrollo full-stack, actualmente estoy en 6to semestre.</p>
