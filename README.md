@@ -4,6 +4,6 @@ Tengo 20 años, vivo en Monterrey, México y soy estudiante de ingeniería en te
 
 <ul>
   <li>Estoy interesado en desarrollo fronte-end, actualmente estoy en 6to semestre.</li>
-  <li>Además de la universidad en mi tiempo libre estudio html, css, js, typescript, react, php y mysql creando proyectos y además de eso me gusta jugar videojuegos.</li>
+  <li>Además de la universidad en mi tiempo libre estudio html, css, js, php y mysql creando proyectos y además de eso en mi tiempo libre me gusta jugar videojuegos.</li>
   <li>Revisa mi <a href="https://cgamcs.vercel.app/" target="_blank">website</a> para conocer más de mí.</li>
 </ul>
