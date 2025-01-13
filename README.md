@@ -1,15 +1,12 @@
-## ¡Hola Mundo! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" width="25px" height="25px">
+### ¡Hola Mundo! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" width="25px" height="25px">
 
 Soy [**César**](https://cgamcs.vercel.app/), estudiante de Ingeniería en Tecnología de Software en México 🇲🇽.
 
-Actualmente estoy en mi séptimo semestre y me estoy enfocando en construir una base sólida en **desarrollo front-end**. Mi aprendizaje combina teoría con proyectos prácticos, y me apasiona crear aplicaciones web que sean tanto funcionales como visualmente atractivas.  
+Actualmente, estoy profundizando en el desarrollo front-end, combinando teoría y práctica para construir aplicaciones que sean funcionales y visualmente atractivas. Me apasiona explorar el ecosistema de JavaScript y aprender a utilizar herramientas como **Node.js**, **React** y **TypeScript** para crear soluciones modernas y escalables.  
 
+A lo largo de mi carrera universitaria, he trabajado en proyectos académicos que incluyen bases de datos utilizando tecnologías como **HTML**, **CSS**, **JavaScript**, **PHP** y **MySQL**. Además, dedico tiempo a resolver retos de algoritmos en **LeetCode**, lo que me permite desarrollar habilidades en resolución de problemas y optimización de código, mientras documento mi progreso para consolidar lo aprendido.  
 
-### ¿Qué estoy haciendo?  
-- 🌱 **Aprendiendo JavaScript**: Explorando su ecosistema, incluyendo **Node.js**, **React** y **TypeScript**.  
-- 🛠️ Construyendo proyectos con **HTML**, **CSS**, **JavaScript**, **PHP** y **MySQL**, con experiencia académica en bases de datos.  
-- 🔍 Resolviendo retos de algoritmos en **LeetCode**, documentando mi progreso y mejorando mis habilidades en resolución de problemas.  
-- 🎨 Experimentando con **UI/UX** al agregar animaciones y diseños estéticos a mis proyectos.  
+Recientemente, he comenzado a enfocarme en el diseño y la experiencia de usuario (UI/UX), experimentando con animaciones y detalles estéticos que hacen que las aplicaciones sean más atractivas e intuitivas. Mi objetivo es crear software que no solo funcione bien, sino que también brinde experiencias memorables a los usuarios.
 
 
 ### Algunos datos sobre mí:  
