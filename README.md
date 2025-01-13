@@ -1,4 +1,4 @@
-### ¡Hola Mundo! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" width="25px" height="25px">
+### ¡Hola Mundo! 👋
 
 Soy [**César**](https://cgamcs.vercel.app/), estudiante de Ingeniería en Tecnología de Software en México.
 
