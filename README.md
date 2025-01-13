@@ -1,4 +1,4 @@
-### ¡Hola Mundo! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" width="25px" height="25px">
+     ### ¡Hola Mundo! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" width="25px" height="25px">
 
 Soy [**César**](https://cgamcs.vercel.app/), estudiante de Ingeniería en Tecnología de Software en México 🇲🇽.
 
@@ -8,6 +8,6 @@ Recientemente, he comenzado a enfocarme en el diseño y la experiencia de usuari
 
 
 ### Algunos datos sobre mí:  
-- 🎮 Me encantan los videojuegos; son mi forma de relajarme cuando no estoy programando.  
-- 🍜 Soy fanático del anime, y mi favorito es **Berserk**.  
-- 📚 Siempre busco aprender algo nuevo, ya sea en tecnología o en la vida.
+- Me encantan los videojuegos; son mi forma de relajarme cuando no estoy programando.  
+- Soy fanático del anime, y mi favorito es Berserk.  
+- Siempre busco aprender algo nuevo, ya sea en tecnología o en la vida.
